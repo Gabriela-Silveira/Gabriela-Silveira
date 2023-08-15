@@ -1,16 +1,32 @@
-### Hi there 👋
+### Olá, seja bem-vindo 👋
 
-<!--
-**Gabriela-Silveira/Gabriela-Silveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+#### Sou graduada em Design Gráfico e atualmente estou dedicada aos estudos no campo de Tecnologia em Análise e Desenvolvimento de Sistemas, nutrindo uma profunda paixão pela área de Qualidade de Software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha paixão pela qualidade está enraizada na minha experiência em Design, onde vivenciei a automação dos processos de pré-impressão, otimizando a eficiência e a precisão dos fluxos de trabalho. Além disso, também aprimorei minha comunicação eficaz e minha capacidade de pensar visualmente, o que me permite produzir relatórios detalhados de bugs, documentação clara de casos de teste e representações gráficas de fluxos de trabalho para facilitar a compreensão entre as partes interessadas.</p>
+
+Estou sempre em busca do aprimoramento constante das minhas habilidades em testes de software, através da participação ativa em cursos e workshops pertinentes. Minha atitude receptiva a novas oportunidades de aprendizado e crescimento reforça o meu compromisso em fornecer resultados de alta qualidade, aproveitando a minha perspectiva detalhista, pensamento crítico e abordagem criativa.
+
+### **Skills**
+----
+
+  <ul>
+    <li>Planejamento, Análise e Modelagem de Testes;</li>
+    <li>Tipos e níveis de testes;</li>
+    <li>Testes de API e Web;</li>
+    <li>Elaboração de casos de testes em BDD;</li>
+    <li>Metodologias ágeis Scrum e Kanban;</li>
+    <li>Abertura de Bug’s e gestão de defeitos no Jira;</li>
+    <li>Consultas de dados via SQL.</li>
+  </ul>
+
+### Frameworks
+---
+
+ [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]() [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]() [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)]()
+
+### Linguagens de Programação
+---
+
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]() [![Javascritp](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
