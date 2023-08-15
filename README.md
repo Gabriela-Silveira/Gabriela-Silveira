@@ -11,8 +11,8 @@ Estou sempre em busca do aprimoramento constante das minhas habilidades em teste
 
   <ul>
     <li>📊 Planejamento, Análise e Modelagem de Testes;</li>
-    <li>🧪 Diversos tipos e níveis de testes;</li>
-    <li>🌐 Execução de Testes de API e Web;</li>
+    <li>🧪 Tipos e níveis de testes;</li>
+    <li>🌐 Testes de API e Web;</li>
     <li>📝 Elaboração de casos de testes em BDD;</li>
     <li>🚀 Metodologias ágeis Scrum e Kanban;</li>
     <li>🐞 Abertura de Bug’s e gestão de defeitos no Jira;</li>
