@@ -2,9 +2,9 @@
 
 ----
 
-#### Sou graduada em Design Gráfico e atualmente estou dedicada aos estudos no campo de Tecnologia em Análise e Desenvolvimento de Sistemas, nutrindo uma profunda paixão pela área de Qualidade de Software.
+####   Sou graduada em Design Gráfico e atualmente estou dedicada aos estudos no campo de Tecnologia em Análise e Desenvolvimento de Sistemas, nutrindo uma profunda paixão pela área de Qualidade de Software.
 
-Estou sempre em busca do aprimoramento constante das minhas habilidades em testes de software, através da participação ativa em cursos e workshops pertinentes. Minha atitude receptiva a novas oportunidades de aprendizado e crescimento reforça o meu compromisso em fornecer resultados de alta qualidade, aproveitando a minha perspectiva detalhista, pensamento crítico e abordagem criativa.
+  Estou sempre em busca do aprimoramento constante das minhas habilidades em testes de software, através da participação ativa em cursos e workshops pertinentes. Minha atitude receptiva a novas oportunidades de aprendizado e crescimento reforça o meu compromisso em fornecer resultados de alta qualidade, aproveitando a minha perspectiva detalhista, pensamento crítico e abordagem criativa.
 
 ### **Skills**
 ----
