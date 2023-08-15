@@ -4,8 +4,6 @@
 
 #### Sou graduada em Design Gráfico e atualmente estou dedicada aos estudos no campo de Tecnologia em Análise e Desenvolvimento de Sistemas, nutrindo uma profunda paixão pela área de Qualidade de Software.
 
-Minha paixão pela qualidade está enraizada na minha experiência em Design, onde vivenciei a automação dos processos de pré-impressão, otimizando a eficiência e a precisão dos fluxos de trabalho. Além disso, também aprimorei minha comunicação eficaz e minha capacidade de pensar visualmente, o que me permite produzir relatórios detalhados de bugs, documentação clara de casos de teste e representações gráficas de fluxos de trabalho para facilitar a compreensão entre as partes interessadas.</p>
-
 Estou sempre em busca do aprimoramento constante das minhas habilidades em testes de software, através da participação ativa em cursos e workshops pertinentes. Minha atitude receptiva a novas oportunidades de aprendizado e crescimento reforça o meu compromisso em fornecer resultados de alta qualidade, aproveitando a minha perspectiva detalhista, pensamento crítico e abordagem criativa.
 
 ### **Skills**
